@@ -1,2 +1,0 @@
-# bashtest
-for bashtest
